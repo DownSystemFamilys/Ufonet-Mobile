@@ -103,3 +103,15 @@ Dengan Pengguna Dari Seluruh Dunia
 command
 
 --join
+
+###########################
+#HOW TO USE               #
+###########################
+$cp UfonetM.zip $HOME
+$unzip $HOME/UfonetM.zip
+$cd $HOME/UfonetM
+
+
+
+
+
